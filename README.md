@@ -1,5 +1,3 @@
-# --------------------------- TESTE TÉCNICO PAGONXT ---------------------------
-
 # Build e execução do projeto
 
 - Para executar, descompactar os arquivos em uma pasta e executar na raíz da
