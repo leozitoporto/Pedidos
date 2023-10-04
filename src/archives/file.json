@@ -1,0 +1,7 @@
+[
+    { "action": "CREATE_ORDER", "order_id": 1 },
+
+    { "action": "ADD_ORDER_ITEM", "order_id": 1, "product_id": 1 },
+    { "action": "CHECKOUT_ORDER", "order_id": 1 },
+    { "action": "ADD_ORDER_ITEM", "order_id": 1, "product_id": 1 }
+]
